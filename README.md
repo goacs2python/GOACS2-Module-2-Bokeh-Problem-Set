@@ -1,6 +1,10 @@
-# Module 3 Problems
+# Module 2 Bokeh 
 
-Please complete 2 problems from Part 1 of the Module 3 Problem Set, and 1 problem from Part 2.
+Please choose 2 of the problems from our assignment page to complete.
+
+In addition, create an original program of your own. It does not have to be complex, but it should use some of the skills introduced this week.
+
+Total of 3 programs to submit.
 
 ---
 
